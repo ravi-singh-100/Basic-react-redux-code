@@ -1,4 +1,4 @@
-# Basic-react-redux-code
+# Basic-react-redux-code and react toolkit
 This is the basic code of react-redux.
 
 
